@@ -41,8 +41,9 @@ p:not(:first-child) {
 }
 
 .main-title {
-  font-weight: 700;
+  font-weight: 300;
   font-size: 2.625rem;
+  text-transform: uppercase;
   position: relative;
   width: -webkit-max-content;
   width: -moz-max-content;
